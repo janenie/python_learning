@@ -1,0 +1,5 @@
+This is the basic file operation txt
+ file is read by open()/file() operation
+                and open() built-in method recommended
+                for more information, please check the 
+                website python.org for learning
